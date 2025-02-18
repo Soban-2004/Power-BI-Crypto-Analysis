@@ -14,7 +14,8 @@ A **Power BI** dashboard for **cryptocurrency analysis**, leveraging the **Yahoo
 ## 📊 Dashboard Preview  
 Below is a preview of the Power BI dashboard created for analyzing cryptocurrency data:
 
-![Power BI Dashboard](images/dashboard.png)
+![Power BI Dashboard](images/page.png)
+![Power BI Dashboard](images/page2.png)
 
 
 ## 📌 Technologies Used  
